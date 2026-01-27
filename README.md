@@ -34,7 +34,6 @@ I am currently **transitioning back into hands-on Python development**, focusing
 - **Language:** Python  
 - **Tools:** VS Code, Git  
 - **Version Control:** GitHub
-- 
 ## Feedback
 
 Suggestions, improvements, and constructive feedback are always welcome.
