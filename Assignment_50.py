@@ -1,11 +1,3 @@
-#------------------------------------------------------------------
-## Bank Term Deposit Subscription Prediction ##
-#------------------------------------------------------------------
-# Domain: Banking, Marketing
-# Problem Statement:
-# A Portuguese bank conducted marketing compaigns to promote term deposit subscriptions. 
-# The goal is to predict whether a client will subscribe (yes or no) to a term deposit based on their profile and compaign interaction details.
-
 
 import pandas as pd
 import numpy as np
